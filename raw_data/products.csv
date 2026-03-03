@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price
+201,Widget A,Electronics,120.50
+202,Widget B,Electronics,80.00
+203,Widget C,Home,50.00
+204,Widget D,Home,150.00
+205,Gadget X,Electronics,200.00
+206,Gadget Y,Electronics,175.00
+207,Toolset A,Hardware,90.00
+208,Toolset B,Hardware,110.00
+209,Accessory 1,Accessories,25.00
+210,Accessory 2,Accessories,30.00

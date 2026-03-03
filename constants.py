@@ -8,6 +8,11 @@ FILES_PATH = namedtuple('FILES_PATH', ['customers', 'orders', 'products'])(
     products='raw_data/products.csv'
 )
 
+CLEANED_FILE_PATH = namedtuple('CLEANED_FILE_PATH', ['customers', 'orders', 'products'])(
+    customers='cleaned_data/customers_clean.csv',
+    orders='cleaned_data/orders_clean.csv',
+    products='raw_data/products.csv'
+)
 
 ORDER_STATUS_MAPPING: Dict = {
     "completed": "completed",

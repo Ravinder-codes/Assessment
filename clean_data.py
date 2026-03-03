@@ -32,8 +32,8 @@ def clean_customers()-> None:
         try:
             df[col] = df[col].apply(strip_val_func)
         except Exception as e:
-            print(f'Aborting the process due to error:', {e})
-            exit(1)
+            print(f'Aborting the file cleaning process due to error:', {e})
+            return
 
     # Sort the date and keep the most recent signup
     df['signup_date'] = df['signup_date'].apply(parse_dates)

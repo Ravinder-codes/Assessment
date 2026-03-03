@@ -9,3 +9,4 @@ order_id,customer_id,product,amount,order_date,status,order_year_month
 1008,103,Widget D,90.0,,cancelled,
 1009,104,Widget A,180.0,2023-07-20,completed,2023-07
 1010,105,Widget B,130.0,2023-07-25,pending,2023-07
+1011,1923,Widget XYZ,130,07/25/2023,Pending
