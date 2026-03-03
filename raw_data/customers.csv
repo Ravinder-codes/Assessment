@@ -1,0 +1,12 @@
+customer_id,email,name,region,signup_date
+101,Alice@example.com,Alice Smith,North,2023-01-10
+102,bob_at_domain.com,Bob Johnson,,15-02-2023
+103,charlie@,Charlie Brown,East,03/01/2023
+104,DAVE@EXAMPLE.org,Dave Lee,West,2023-03-20
+105,eve.example.net,Eve Adams,South,April 5 2023
+106,frank@domain.co,Frank Wright,,2023/04/15
+107,grace@company,Grace Hopper,North,2023-05-01
+108,HENRY@EXAMPLE.COM,Henry Ford,South,05-06-2023
+109,ivan.example, Ivan Ivanov,,2023.06.15
+110,julia@domain.com,Julia Roberts,West,2023-07-20
+110,julia@domain.com,Julia Roberts,West,2023-07-21

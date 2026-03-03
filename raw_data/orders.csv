@@ -1,0 +1,11 @@
+order_id,customer_id,product,amount,order_date,status
+1001,101,Widget A,120.50,2023-01-10,Completed
+1002,102,Widget B,80,15-02-2023,pending approval
+1003,103,Widget C,50,03/01/2023,Cancelled
+1004,104,Widget A,200,April 5 2023,Refunded
+1005,105,Widget D,150,2023/04/15,complete
+1006,106,Widget B,100,2023-05-01,Pending
+1007,101,Widget C,75,06-05-2023,Refund
+1008,103,Widget D,90,2023.06.15,Cancel
+1009,104,Widget A,180,2023-07-20,completed
+1010,105,Widget B,130,07/25/2023,Pending
