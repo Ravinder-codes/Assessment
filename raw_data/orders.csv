@@ -9,3 +9,13 @@ order_id,customer_id,product,amount,order_date,status
 1008,103,Widget D,90,2023.06.15,Cancel
 1009,104,Widget A,180,2023-07-20,completed
 1010,105,Widget B,130,07/25/2023,Pending
+1011,106,Widget C,95,2023-08-01,Complete
+1012,107,Widget A,210,08-10-2023,Pending
+1013,108,Widget D,140,2023/09/05,Cancelled
+1014,109,Widget B,85,Sep 10 2023,Refund
+1015,110,Widget C,120,2023.10.01,Completed
+1016,101,Widget 8324,150,10/15/2023,pending approval
+1017,102,Widget A,200,2023-11-05,complete
+1018,103,Widget 342,110,Nov 20 2023,Cancelled
+1019,1340,Widget C,75,2023/12/01,Refunded
+1020,1342,Widget D,160,12-15-2023,completed

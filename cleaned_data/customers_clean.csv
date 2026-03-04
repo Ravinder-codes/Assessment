@@ -8,4 +8,14 @@ customer_id,email,name,region,signup_date,is_valid_email
 107,grace@company,Grace Hopper,North,2023-05-01,False
 108,henry@example.com,Henry Ford,South,2023-06-05,True
 109,ivan.example,Ivan Ivanov,Unknown,,False
-110,julia@domain.com,Julia Roberts,West,2023-07-21,True
+110,julia@domain.com,Julia Roberts,West,2023-07-20,True
+111,kevin123@web.net,Kevin White,East,2023-08-02,True
+112,linda_at_mail.com,Linda Green,North,2023-08-15,False
+113,michael@company.org,Michael Brown,South,2023-09-01,True
+114,nancy.example,Nancy Drew,West,,False
+115,oliver@domain,Oliver Twist,East,2023-10-05,False
+116,patricia@site.net,Patricia Clark,North,2023-10-20,True
+117,quentin@,Quentin Tarantino,South,,False
+118,rachel_at_mail.org,Rachel Adams,West,,False
+119,steven@example.com,Steven Spielberg,East,2023-12-01,True
+120,tina.example.net,Tina Fey,North,,False

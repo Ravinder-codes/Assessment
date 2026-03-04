@@ -1,0 +1,8 @@
+customer_id,total_spending,churn
+105,150.0,True
+1342,150.0,False
+101,120.5,False
+102,120.5,True
+104,120.5,False
+106,50.0,True
+110,50.0,False

@@ -9,4 +9,13 @@ order_id,customer_id,product,amount,order_date,status,order_year_month
 1008,103,Widget D,90.0,,cancelled,
 1009,104,Widget A,180.0,2023-07-20,completed,2023-07
 1010,105,Widget B,130.0,2023-07-25,pending,2023-07
-1011,1923,Widget XYZ,130,07/25/2023,Pending
+1011,106,Widget C,95.0,2023-08-01,completed,2023-08
+1012,107,Widget A,210.0,2023-10-08,pending,2023-10
+1013,108,Widget D,140.0,2023-09-05,cancelled,2023-09
+1014,109,Widget B,85.0,,refunded,
+1015,110,Widget C,120.0,,completed,
+1016,101,Widget 8324,150.0,2023-10-15,pending,2023-10
+1017,102,Widget A,200.0,2023-11-05,completed,2023-11
+1018,103,Widget 342,110.0,,cancelled,
+1019,1340,Widget C,75.0,2023-12-01,refunded,2023-12
+1020,1342,Widget D,160.0,,completed,

@@ -7,5 +7,15 @@ customer_id,email,name,region,signup_date
 106,frank@domain.co,Frank Wright,,2023/04/15
 107,grace@company,Grace Hopper,North,2023-05-01
 108,HENRY@EXAMPLE.COM,Henry Ford,South,05-06-2023
-109,ivan.example, Ivan Ivanov,,2023.06.15
+109,ivan.example,Ivan Ivanov,,2023.06.15
 110,julia@domain.com,Julia Roberts,West,2023-07-20
+111,kevin123@web.net,Kevin White,East,2023-08-02
+112,linda_at_mail.com,Linda Green,North,08/15/2023
+113,michael@company.org,Michael Brown,South,2023/09/01
+114,nancy.example,Nancy Drew,West,Sep 10 2023
+115,oliver@domain,Oliver Twist,East,2023-10-05
+116,patricia@site.net,Patricia Clark,North,2023/10/20
+117,quentin@,Quentin Tarantino,South,2023.11.11
+118,rachel_at_mail.org,Rachel Adams,West,Nov 25 2023
+119,steven@example.com,Steven Spielberg,East,2023-12-01
+120,tina.example.net,Tina Fey,North,12-15-2023

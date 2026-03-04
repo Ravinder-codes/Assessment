@@ -15,8 +15,7 @@ def clean_customers()-> None:
 
     # email validations
     df['email'] = df['email'].str.lower()
-    email_pattern: str = r'^[\w\.-]+@[\w\.-]+\.\w+$'
-    df['is_valid_email'] = df['email'].str.match(email_pattern)
+    df['is_valid_email'] = df['email'].str.match(constants.EMAIL_PATTERN)
 
     df['region'] = df['region'].fillna('Unknown')
 
@@ -41,7 +40,7 @@ def clean_customers()-> None:
     df = df.drop_duplicates(subset='customer_id', keep='first')
     df = df.sort_values(by='customer_id')
 
-    df.to_csv("cleaned_data/customers_clean.csv", index=False)
+    df.to_csv(constants.CLEANED_FILE_PATH.customers, index=False)
 
 def clean_orders()-> None:
     '''Function to parse and clean the orders file
@@ -58,7 +57,7 @@ def clean_orders()-> None:
     df['amount'] = df.groupby('product')['amount'].transform(lambda val: val.fillna(val.median()))
     df['status'] = df['status'].str.lower().map(constants.ORDER_STATUS_MAPPING)
 
-    df.to_csv("cleaned_data/orders_clean.csv", index=False)
+    df.to_csv(constants.CLEANED_FILE_PATH.orders, index=False)
 
 
 if __name__ == '__main__': 
